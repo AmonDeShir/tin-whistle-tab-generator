@@ -1,0 +1,12 @@
+{
+  "name": "tin-whistle-tabs-generator",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/AmonDeShir/tin-whistle-tabs-generator.git",
+  "author": "Amon De Shir <amonsir29@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "./app",
+    "./ui"
+  ]
+}
